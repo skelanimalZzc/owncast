@@ -1,6 +1,6 @@
 # editorconfig.org
 root = true
-
+# touch my dir
 [*]
 indent_style = tab
 indent_size = 2
